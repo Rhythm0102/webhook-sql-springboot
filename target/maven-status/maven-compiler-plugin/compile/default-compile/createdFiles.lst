@@ -1,0 +1,4 @@
+com\example\webhooksql\client\GenerateWebhookResponse.class
+com\example\webhooksql\client\SubmitSolutionRequest.class
+com\example\webhooksql\client\GenerateWebhookRequest.class
+com\example\webhooksql\WebhookSqlApplication.class
